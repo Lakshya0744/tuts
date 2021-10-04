@@ -1,0 +1,5 @@
+2021-10-04 19:46:04,407::INFO::For income : 650000.0, married : False, age : 22 the loan amount : 374998.9::
+2021-10-04 19:46:04,408::INFO::For income : 750000.0, married : True, age : 22 the loan amount : 424998.80000000005::
+2021-10-04 19:46:04,408::ERROR::Married is not type Bool::
+2021-10-04 19:46:04,408::ERROR::Income is less than 600000::
+2021-10-04 19:46:04,408::ERROR::Married is not type Bool::

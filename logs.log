@@ -1,0 +1,8 @@
+2021-10-04 20:07:09,214::INFO::For income :650000.0, married : True, age :22 the loan amount : 374998.80000000005::
+2021-10-04 20:07:09,215::INFO::For income :650000.0, married : False, age :22 the loan amount : 374998.9::
+2021-10-04 20:07:09,215::INFO::For income :750000.0, married : True, age :22 the loan amount : 424998.80000000005::
+2021-10-04 20:07:09,215::ERROR::Income is less than 600000::
+2021-10-04 20:07:09,215::ERROR::Age is not in between 18 and 60::
+2021-10-04 20:07:09,215::ERROR::Married is not type Int or Bool::
+2021-10-04 20:07:09,215::ERROR::Married is not type Int or Bool::
+2021-10-04 20:07:09,215::ERROR::Income is not of type Float::
